@@ -21,5 +21,15 @@ namespace Prueba_de_Repositorio1
         {
 
         }
+
+        private void iNGToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
