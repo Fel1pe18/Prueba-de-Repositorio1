@@ -51,9 +51,9 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(39, 220);
+            this.dataGridView1.Location = new System.Drawing.Point(39, 148);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(717, 192);
+            this.dataGridView1.Size = new System.Drawing.Size(717, 264);
             this.dataGridView1.TabIndex = 3;
             // 
             // menuStrip1
@@ -92,13 +92,13 @@
             // iNGMECANICAToolStripMenuItem
             // 
             this.iNGMECANICAToolStripMenuItem.Name = "iNGMECANICAToolStripMenuItem";
-            this.iNGMECANICAToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.iNGMECANICAToolStripMenuItem.Size = new System.Drawing.Size(159, 22);
             this.iNGMECANICAToolStripMenuItem.Text = "ING MECANICA";
             // 
             // iNGToolStripMenuItem
             // 
             this.iNGToolStripMenuItem.Name = "iNGToolStripMenuItem";
-            this.iNGToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.iNGToolStripMenuItem.Size = new System.Drawing.Size(159, 22);
             this.iNGToolStripMenuItem.Text = "ING  SOFTWARE";
             this.iNGToolStripMenuItem.Click += new System.EventHandler(this.iNGToolStripMenuItem_Click);
             // 
